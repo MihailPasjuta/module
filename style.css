@@ -1,0 +1,276 @@
+.header
+{
+    height: 150px; 
+    min-height: 150px;
+	width: 1021px;
+	margin: auto;
+	align-items: center;
+	
+}
+.head_1{
+		width: 30%; 
+	float: left;
+	margin-top: 5%;
+	color: #898691;
+}
+.head_2{
+width: 40%;	
+	float: left;
+	margin-top: 3%;
+color: #898691;
+	
+}
+.head_3{
+width: 30%;	
+	float: left;
+	margin-top: 5%;
+	text-align:right;
+	color: #898691;
+}
+
+
+
+
+.container
+{
+    height: 100%; 
+    min-height: 100%;
+	width: 1021px;
+	margin: auto;
+}
+
+
+
+
+.first {
+	float: left;
+     background-image: url(img/square1-bg.jpg);
+    background-size: 100% auto;
+    
+    width: 1021px;
+	height: 512;
+	margin-bottom: 20px;
+	
+   
+}
+.first_text{
+	margin-top:41px;
+	margin-left:41px;
+	font-family:Arial, fantasy;
+}
+.button1 {
+    background-color: #3e3b4a;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    
+    cursor: pointer;
+	
+	margin-top:120px;
+}
+
+
+
+.second{
+    float: left;
+    width: 622px;
+    height: 484px;
+    background-color: #7ac0cc;
+	margin-right:20px;
+	margin-bottom: 20px;
+}
+.second_text{
+	float: left;
+	margin-top:41px;
+	margin-left:41px;
+	position: absolute;
+	font-family:Verdana, sans-serif;
+	
+}
+.second_img{
+	float:right;
+	
+}
+
+.button2 {
+    background-color: #3e3b4a;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    
+    cursor: pointer;
+	
+	margin-top:196px;
+}
+
+
+.third{
+    float: right;
+    width: 378px;
+    height: 484px;
+    background-color: #eb7b61;
+	margin-bottom: 20px;
+}
+.third_text{
+	margin-top: 79px;
+	margin-left:61px;
+	margin-right:61px;
+	text-align:center;
+}
+.button31 {
+    background-color: #3e3b4a;
+    border: none;
+    color: white;
+    padding: 11px 90px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    cursor: pointer;
+	align-items: center;
+	margin-top:8%;
+}
+.button32 {
+    background-color: #66689c;
+    border: none;
+    color: white;
+    padding: 11px 92px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    cursor: pointer;
+	align-items: center;
+	margin-top:5%;
+}
+
+
+
+.fourth {
+    float: left;
+    width: 260px;
+    height: 420px;
+	background-image: url(img/square4-bg.jpg);
+    background-size: 100% auto;
+	margin-right:20px;
+}
+.fourth_text{
+	margin-top: 35px;
+	margin-left:64px;
+	margin-right:64px;
+	text-align:center;
+	font-family:Noto Sans, sans-serif;
+}
+.button4 {
+    background-color: #ffe18e;
+    border: none;
+    color: #3d3c4a;
+    padding: 13px 13px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    cursor: pointer;
+	align-items: center;
+	margin-top:110px;
+}
+
+
+.fifth{
+    float: right;
+    width: 260px;
+    height: 420px;
+	background-image: url(img/square5-bg.jpg);
+    background-size: 100% auto;
+	margin-right:20px;
+}
+.fifth_text{
+	margin-top: 35px;
+	margin-left:47px;
+	margin-right:47px;
+	text-align:center;
+	font-family:Noto Sans, sans-serif;
+}
+.button5 {
+    background-color: #ffe18e;
+    border: none;
+    color: #3d3c4a;
+    padding: 13px 13px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    cursor: pointer;
+	align-items: center;
+	margin-top:103px;
+}
+
+.sixth{
+    float: right;
+    width: 460px;
+    height: 420px;
+	background-color: #1ab467;
+}
+.sixth_text{
+	margin-top: 35px;
+	margin-left:43px;
+	text-align:left;
+	font-family:Noto Sans, sans-serif;
+}
+.sixth_button{
+	margin-left:43px;
+	text-align:left;
+	position: absolute;
+}
+.button6 {
+    background-color: #3e3b4a;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+	margin-top:174px;
+}
+
+
+
+.down
+{
+    height: 140px; 
+    min-height: 140px;
+	width: 1021px;
+	margin: auto;
+	align-items: center;
+	
+}
+.down_1{
+		width: 50%; 
+	float: left;
+	margin-top: 5%;
+	color: #76737f;
+}
+
+.down_2{
+width: 49%;	
+	float: left;
+	margin-top: 51px;
+	color: #898691;
+	left: 80%;
+	text-align: right;
+	
+}
